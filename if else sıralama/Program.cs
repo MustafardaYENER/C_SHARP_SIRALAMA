@@ -62,6 +62,11 @@
             {
                 Console.WriteLine("Sıralama " + (sayi2 + ">" + sayi1 + "=" + sayi3));
             }
+            else
+            {
+               Console.WriteLine("Hatalı sayı girildi lütfen tekrar sayı giriniz!!!");
+            }
+            
 
 
 
