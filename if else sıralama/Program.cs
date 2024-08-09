@@ -70,6 +70,10 @@
             }
             #endregion
 
+
+
+
+                
               #region yazılan sayıların toplamı ve ortalaması
    Console.WriteLine("Sayı giriniz:");
    int sayi = Convert.ToInt32(Console.ReadLine());
